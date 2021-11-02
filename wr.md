@@ -157,16 +157,16 @@
 #### Sheep:
 
 #### Споробности:
-| Punching Bag
-| Grass Time
-| Herbivorous
+| Punching Bag  
+| Grass Time  
+| Herbivorous  
 | Terrestrial  
 
 #### Ram:
 
 #### Споробности:
 | Punching Bag  
-| Grass Time    
+| Grass Time  
 | Charge  
 | Herbivorous  
 | Terrestrial
@@ -176,41 +176,41 @@
 #### Toxic Boar:
 
 #### Споробности:
-| Acid Shot
-| Toxic Skin
-| Herbivorous
-| Terrestrial
+| Acid Shot  
+| Toxic Skin  
+| Herbivorous  
+| Terrestrial  
 
 #### Toxic Boar:
 
 #### Споробности:
-| Acid Shot
-| Toxic Skin
-| Herbivorous
-| Terrestrial
+| Acid Shot  
+| Toxic Skin  
+| Herbivorous  
+| Terrestrial  
 
 #### Pangolin:
 
 #### Споробности:
-| Hardened Shell
-| Herbivorous
+| Hardened Shell  
+| Herbivorous  
 | Terrestrial
 
 #### Healing Arachnid:
 
 #### Споробности:
-| Hardened Shell
-| Healing Glands
-| Herbivorous
-| Terrestrial
+| Hardened Shell  
+| Healing Glands  
+| Herbivorous  
+| Terrestrial  
 
 #### Injector:
 
 #### Споробности:
-| Hardened Shell
-| Caustic Finale
-| Carnivore
-| Terrestrial
+| Hardened Shell  
+| Caustic Finale  
+| Carnivore  
+| Terrestrial  
 
 
 #### Вода:
@@ -218,11 +218,11 @@
 #### Squid:
 | Ink Swell  
 | Herbivorous  
-| Aquatic
+| Aquatic  
 
 #### Axolotl:
-| Charisma 
+| Charisma  
 | Carnivore  
-| Aquatic
+| Aquatic  
 
 </span>>
